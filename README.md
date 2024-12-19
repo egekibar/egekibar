@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/egekibar">
+  <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=egekibar&show_icons=true" align="right" height="150" />
+</a>
+
 <!--
 **egekibar/egekibar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
